@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+<rect width="1200" height="220" fill="#0a0e0a"/>
+<polyline fill="none" stroke="#00ff66" stroke-opacity=".2" stroke-width="2" points="0,190 100,170 200,180 300,140 400,150 500,110 600,130 700,90 800,105 900,70 1000,85 1100,50 1200,60"/>
+<text x="60" y="60" font-family="Consolas,Menlo,monospace" font-size="20" fill="#00aa44">henio@barueri:~$ whoami</text>
+<text x="60" y="135" font-family="Consolas,Menlo,monospace" font-size="64" font-weight="bold" fill="#00ff66">HENIO SAMPAIO</text>
+<text x="60" y="180" font-family="Consolas,Menlo,monospace" font-size="20" fill="#00cc55">ADS · financial analytics · automação · IA<tspan fill="#00ff66">█</tspan></text>
+</svg>
