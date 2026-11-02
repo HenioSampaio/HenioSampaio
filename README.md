@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/header.svg" alt="Henio Sampaio" width="100%"></p>
+<p align="center"><img src="assets/header-hbs.svg" alt="Henio Sampaio" width="100%"></p>
 
 ```text
 $ cat sobre.txt
