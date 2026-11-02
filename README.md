@@ -30,15 +30,15 @@ constrói ... apps desktop em Python, automação, IA e trading quantitativo
 | [**Carteiro SBW**](https://github.com/HenioSampaio/carteiro-sbw-versoes) | Automação de envio de notas fiscais e notas de débito. |
 
 <p>
-<a href="https://github.com/HenioSampaio/trama-versoes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HenioSampaio&repo=trama-versoes&theme=chartreuse-dark&hide_border=true&bg_color=0a0e0a"></a>
-<a href="https://github.com/HenioSampaio/memecoin-lab-versoes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HenioSampaio&repo=memecoin-lab-versoes&theme=chartreuse-dark&hide_border=true&bg_color=0a0e0a"></a>
+<a href="https://github.com/HenioSampaio/trama-versoes"><img src="assets/pin-trama-versoes.svg"></a>
+<a href="https://github.com/HenioSampaio/memecoin-lab-versoes"><img src="assets/pin-memecoin-lab-versoes.svg"></a>
 </p>
 
 ### ▌ Stats
 
 <p>
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HenioSampaio&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0e0a&count_private=true">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenioSampaio&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0e0a">
+<img height="165" src="assets/stats.svg">
+<img height="165" src="assets/langs.svg">
 </p>
 <p><img src="https://streak-stats.demolab.com?user=HenioSampaio&theme=chartreuse-dark&hide_border=true&background=0a0e0a"></p>
 

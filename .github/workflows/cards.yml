@@ -1,0 +1,13 @@
+name: cards
+on: {schedule: [{cron: "0 6 * * *"}], workflow_dispatch: {}}
+permissions: {contents: write}
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/cards.py
+        env: {GH_TOKEN: "${{ github.token }}"}
+      - run: |
+          git config user.name github-actions; git config user.email actions@github.com
+          git add assets && git commit -m "cards: refresh" && git push || true
